@@ -1,0 +1,47 @@
+[
+{
+  "directory": "C:/Users/33298/source/repos/GenshinImpactLoader/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -D_CRT_RAND_S -D_CRT_SECURE_NO_DEPRECATE -D_SCL_SECURE_NO_DEPRECATE -D_UNICODE -D__STD_C -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\libmem /DWIN32 /D_WINDOWS /W3 /GR /EHsc /utf-8 /Zi /Ob0 /Od /RTC1 -MTd /FoCMakeFiles\\GenshinImpactLoader.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\main.cpp",
+  "file": "C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\main.cpp"
+},
+{
+  "directory": "C:/Users/33298/source/repos/GenshinImpactLoader/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -D_CRT_RAND_S -D_CRT_SECURE_NO_DEPRECATE -D_SCL_SECURE_NO_DEPRECATE -D_UNICODE -D__STD_C -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\libmem /DWIN32 /D_WINDOWS /W3 /GR /EHsc /utf-8 /Zi /Ob0 /Od /RTC1 -MTd /FoCMakeFiles\\GenshinImpactLoader.dir\\imgui\\backends\\imgui_impl_win32.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends\\imgui_impl_win32.cpp",
+  "file": "C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends\\imgui_impl_win32.cpp"
+},
+{
+  "directory": "C:/Users/33298/source/repos/GenshinImpactLoader/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -D_CRT_RAND_S -D_CRT_SECURE_NO_DEPRECATE -D_SCL_SECURE_NO_DEPRECATE -D_UNICODE -D__STD_C -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\libmem /DWIN32 /D_WINDOWS /W3 /GR /EHsc /utf-8 /Zi /Ob0 /Od /RTC1 -MTd /FoCMakeFiles\\GenshinImpactLoader.dir\\imgui\\backends\\imgui_impl_dx11.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends\\imgui_impl_dx11.cpp",
+  "file": "C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends\\imgui_impl_dx11.cpp"
+},
+{
+  "directory": "C:/Users/33298/source/repos/GenshinImpactLoader/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -D_CRT_RAND_S -D_CRT_SECURE_NO_DEPRECATE -D_SCL_SECURE_NO_DEPRECATE -D_UNICODE -D__STD_C -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\libmem /DWIN32 /D_WINDOWS /W3 /GR /EHsc /utf-8 /Zi /Ob0 /Od /RTC1 -MTd /FoCMakeFiles\\GenshinImpactLoader.dir\\imgui\\imgui.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\imgui.cpp",
+  "file": "C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\imgui.cpp"
+},
+{
+  "directory": "C:/Users/33298/source/repos/GenshinImpactLoader/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -D_CRT_RAND_S -D_CRT_SECURE_NO_DEPRECATE -D_SCL_SECURE_NO_DEPRECATE -D_UNICODE -D__STD_C -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\libmem /DWIN32 /D_WINDOWS /W3 /GR /EHsc /utf-8 /Zi /Ob0 /Od /RTC1 -MTd /FoCMakeFiles\\GenshinImpactLoader.dir\\imgui\\imgui_demo.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\imgui_demo.cpp",
+  "file": "C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\imgui_demo.cpp"
+},
+{
+  "directory": "C:/Users/33298/source/repos/GenshinImpactLoader/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -D_CRT_RAND_S -D_CRT_SECURE_NO_DEPRECATE -D_SCL_SECURE_NO_DEPRECATE -D_UNICODE -D__STD_C -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\libmem /DWIN32 /D_WINDOWS /W3 /GR /EHsc /utf-8 /Zi /Ob0 /Od /RTC1 -MTd /FoCMakeFiles\\GenshinImpactLoader.dir\\imgui\\imgui_draw.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\imgui_draw.cpp",
+  "file": "C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\imgui_draw.cpp"
+},
+{
+  "directory": "C:/Users/33298/source/repos/GenshinImpactLoader/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -D_CRT_RAND_S -D_CRT_SECURE_NO_DEPRECATE -D_SCL_SECURE_NO_DEPRECATE -D_UNICODE -D__STD_C -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\libmem /DWIN32 /D_WINDOWS /W3 /GR /EHsc /utf-8 /Zi /Ob0 /Od /RTC1 -MTd /FoCMakeFiles\\GenshinImpactLoader.dir\\imgui\\imgui_tables.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\imgui_tables.cpp",
+  "file": "C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\imgui_tables.cpp"
+},
+{
+  "directory": "C:/Users/33298/source/repos/GenshinImpactLoader/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -D_CRT_RAND_S -D_CRT_SECURE_NO_DEPRECATE -D_SCL_SECURE_NO_DEPRECATE -D_UNICODE -D__STD_C -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\libmem /DWIN32 /D_WINDOWS /W3 /GR /EHsc /utf-8 /Zi /Ob0 /Od /RTC1 -MTd /FoCMakeFiles\\GenshinImpactLoader.dir\\imgui\\imgui_widgets.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\imgui_widgets.cpp",
+  "file": "C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\imgui_widgets.cpp"
+},
+{
+  "directory": "C:/Users/33298/source/repos/GenshinImpactLoader/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1434~1.319\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -D_CRT_RAND_S -D_CRT_SECURE_NO_DEPRECATE -D_SCL_SECURE_NO_DEPRECATE -D_UNICODE -D__STD_C -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\imgui\\backends -IC:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\libmem /DWIN32 /D_WINDOWS /W3 /GR /EHsc /utf-8 /Zi /Ob0 /Od /RTC1 -MTd /FoCMakeFiles\\GenshinImpactLoader.dir\\inject.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\inject.cpp",
+  "file": "C:\\Users\\33298\\source\\repos\\GenshinImpactLoader\\inject.cpp"
+}
+]
